@@ -35,6 +35,17 @@ Application avec conseils et affichage de statistiques sur le cycle menstruel et
 
 ## 💾 Données recueillies par l'application
 ### ⌚ Données physiologiques provenant de la montre connectée
+- Rythme cardiaque (bpm)
+- Température cutanée (degré celsius)
+- Conductance cutanée (%)
+- Taux d'oxygénation dans le sang (%)
+- ECG (tableau)
+La conductance cutanée et le rythme cardiaque permettent le calcul du niveau de stress. 
+
+### ⌨️ Données saisies par l'utilisateur.rice
+- Saignements (flux)
+- Utilisation d'une contraception et son type
+- Maladies générales ou impactant le vécu des règles (anémie, endométriose, ...)
 
 ### 📡 Données provenant d'API externe
 - OMS : anémie chez les femmes
@@ -50,4 +61,5 @@ Application avec conseils et affichage de statistiques sur le cycle menstruel et
 ## 🔗 Liens utiles
 ### Figma : wireframes et maquettes
 https://www.figma.com/file/tVOaw0dVGg47Xq6vDUCmXi/Maquettes-app-r%C3%A8gles?node-id=0%3A1
-### Google Drive : User Flow
+### Google Drive
+User Flow : https://viewer.diagrams.net/?page-id=5tV-8P0qLI-Obl568-Sw&highlight=0000ff&edit=_blank&layers=1&nav=1&hide-pages=1#G1hYSEgie5cI41TKxahXZpV6uapGqlzppA
