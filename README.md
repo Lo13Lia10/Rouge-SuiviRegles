@@ -63,3 +63,8 @@ La conductance cutanée et le rythme cardiaque permettent le calcul du niveau de
 https://www.figma.com/file/tVOaw0dVGg47Xq6vDUCmXi/Maquettes-app-r%C3%A8gles?node-id=0%3A1
 ### Google Drive
 User Flow : https://viewer.diagrams.net/?page-id=5tV-8P0qLI-Obl568-Sw&highlight=0000ff&edit=_blank&layers=1&nav=1&hide-pages=1#G1hYSEgie5cI41TKxahXZpV6uapGqlzppA
+
+## 💡 Inspirations
+Quelques sources qui nous ont inspirés pour ce projet :
+- Wireframes, maquettes, user flow :  https://www.behance.net/gallery/94182139/Medical-App-Exploration-COVID19-Tracker?tracking_source=search_projects%7Chealth%20tracker%20app
+
