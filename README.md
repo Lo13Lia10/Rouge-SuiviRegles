@@ -3,8 +3,13 @@
 Rouge est une application, associée à une montre connectée, réalisée dans le cadre du cours de technologies du web de master 1 sciences cognitives (IDMC, Nancy).
 
 ## 📱 A propos de Rouge
+### Description
 Rouge est une application de suivi du cycle menstruel, connecté à une montre, l'application récupère des données de santé (rythme cardiaque, activité physique, ...) et des saisies de l'utilisateur.rice, pour permettre le suivi du cycle menstruel. 
 Le but est que l'application accompagne l'utilisateur.rice grâce à des conseils qui changent en fonction de la phase du cycle en cours et des données physiologiques recueillies via la montre. 
+### Technologies utilisées
+Wireframes, maquettes : Figma
+Développement de l'application : React.js, Material Design
+Hébergement de la base de données : Directus
 
 ## 💬 Vocabulaire lié au cycle menstruel
 - SPM : Syndrome Pré-Menstuel, comprend l'ensemble des symptômes survenant quelques jours avant les règles
@@ -16,6 +21,7 @@ Nous sommes deux étudiantes de master 1 sciences cognitives (IDMC, Nancy) à tr
 Je me suis occupée des wireframes et du maquettage avec Figma. 
 
 ### 👩‍🦱 Méhania
+Je me suis occupée de suivre les TP pour développer l'application de to-do list.
 
 ## 💻 Epics et MVP
 ### Epics
