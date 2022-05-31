@@ -82,3 +82,6 @@ https://www.figma.com/file/tVOaw0dVGg47Xq6vDUCmXi/Maquettes-app-r%C3%A8gles?node
 Quelques sources qui nous ont inspirés pour ce projet :
 - Wireframes, maquettes, user flow :  https://www.behance.net/gallery/94182139/Medical-App-Exploration-COVID19-Tracker?tracking_source=search_projects%7Chealth%20tracker%20app
 
+## 🎥 Vidéo
+https://user-images.githubusercontent.com/35294621/171280270-f1474bcb-61c1-4864-b083-d745878f3270.mp4
+
