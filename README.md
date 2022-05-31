@@ -25,7 +25,7 @@ Mon application to-do list : https://github.com/Lo13Lia10/react-todo-list
 - Suivi des TD
 - Création de l'application to-do list
 
-Mon application to-do list : 
+Mon application to-do list : *fichiers envoyés*
 
 ## 💻 Epics et MVP
 ### Epics
@@ -76,7 +76,7 @@ https://www.figma.com/file/tVOaw0dVGg47Xq6vDUCmXi/Maquettes-app-r%C3%A8gles?node
 - Dossier avec des captures d'écran et des vidéos : https://drive.google.com/drive/folders/11ZXkHnFY3LXzruFaF2-n_XZgWJdJXjXe?usp=sharing
 ### To-Do List App
 - Loélia : https://github.com/Lo13Lia10/react-todo-list
-- Méhania : 
+- Méhania : *fichiers envoyés*
 
 ## 💡 Inspirations
 Quelques sources qui nous ont inspirés pour ce projet :
