@@ -7,9 +7,7 @@ Rouge est une application, associée à une montre connectée, réalisée dans l
 Rouge est une application de suivi du cycle menstruel, connecté à une montre, l'application récupère des données de santé (rythme cardiaque, activité physique, ...) et des saisies de l'utilisateur.rice, pour permettre le suivi du cycle menstruel. 
 Le but est que l'application accompagne l'utilisateur.rice grâce à des conseils qui changent en fonction de la phase du cycle en cours et des données physiologiques recueillies via la montre. 
 ### Technologies utilisées
-Wireframes, maquettes : Figma
-Développement de l'application : React.js, Material Design
-Hébergement de la base de données : Directus
+- Wireframes, maquettes : Figma
 
 ## 💬 Vocabulaire lié au cycle menstruel
 - SPM : Syndrome Pré-Menstuel, comprend l'ensemble des symptômes survenant quelques jours avant les règles
@@ -18,10 +16,14 @@ Hébergement de la base de données : Directus
 ## 🗒️ Responsabilités et gestion du projet
 Nous sommes deux étudiantes de master 1 sciences cognitives (IDMC, Nancy) à travailler sur le projet : Loélia et Méhania.
 ### 👩 Loélia
-Je me suis occupée des wireframes et du maquettage avec Figma. 
+- Création de l'application to-do list
+- Réalisation des wireframes et des maquettes sur Figma
+Mon application to-do list : https://github.com/Lo13Lia10/react-todo-list 
 
 ### 👩‍🦱 Méhania
-Je me suis occupée de suivre les TP pour développer l'application de to-do list.
+- Suivi des TD
+- Création de l'application to-do list
+Mon application to-do list : 
 
 ## 💻 Epics et MVP
 ### Epics
@@ -69,6 +71,10 @@ La conductance cutanée et le rythme cardiaque permettent le calcul du niveau de
 https://www.figma.com/file/tVOaw0dVGg47Xq6vDUCmXi/Maquettes-app-r%C3%A8gles?node-id=0%3A1
 ### Google Drive
 User Flow : https://viewer.diagrams.net/?page-id=5tV-8P0qLI-Obl568-Sw&highlight=0000ff&edit=_blank&layers=1&nav=1&hide-pages=1#G1hYSEgie5cI41TKxahXZpV6uapGqlzppA
+Dossier avec des captures d'écran et des vidéos : https://drive.google.com/drive/folders/11ZXkHnFY3LXzruFaF2-n_XZgWJdJXjXe?usp=sharing
+### To-Do List App
+Loélia : https://github.com/Lo13Lia10/react-todo-list
+Méhania : 
 
 ## 💡 Inspirations
 Quelques sources qui nous ont inspirés pour ce projet :
