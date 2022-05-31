@@ -18,11 +18,13 @@ Nous sommes deux étudiantes de master 1 sciences cognitives (IDMC, Nancy) à tr
 ### 👩 Loélia
 - Création de l'application to-do list
 - Réalisation des wireframes et des maquettes sur Figma
+
 Mon application to-do list : https://github.com/Lo13Lia10/react-todo-list 
 
 ### 👩‍🦱 Méhania
 - Suivi des TD
 - Création de l'application to-do list
+
 Mon application to-do list : 
 
 ## 💻 Epics et MVP
